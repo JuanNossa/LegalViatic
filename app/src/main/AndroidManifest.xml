@@ -15,6 +15,9 @@
         android:theme="@style/Theme.LegalViatic"
         tools:targetApi="31">
         <activity
+            android:name=".VisualizarUsuarios"
+            android:exported="false" />
+        <activity
             android:name=".AddUser"
             android:exported="false" />
         <activity
