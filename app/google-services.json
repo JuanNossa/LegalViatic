@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056434825220",
+    "project_id": "legalviatic",
+    "storage_bucket": "legalviatic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056434825220:android:f67c29fd1b62951e962d51",
+        "android_client_info": {
+          "package_name": "com.example.legalviatic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlqjzJkfqAk0lVyADgyGoo8HvE8CaRxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
